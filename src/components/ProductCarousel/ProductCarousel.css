@@ -1,0 +1,18 @@
+.carousel-container {
+    margin: 40px auto;
+    max-width: 800px;
+  }
+  
+  .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .legend {
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

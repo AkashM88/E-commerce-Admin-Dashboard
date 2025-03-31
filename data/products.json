@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Laptop",
+    "description": "A high-end laptop with great performance",
+    "price": 999.99,
+    "countInStock": 20,
+    "imageUrl": "https://example.com/laptop.jpg",
+    "category": "Electronics",
+    "brand": "BrandA"
+  },
+  {
+    "name": "Smartphone",
+    "description": "Latest model smartphone with advanced features",
+    "price": 699.99,
+    "countInStock": 50,
+    "imageUrl": "https://example.com/smartphone.jpg",
+    "category": "Electronics",
+    "brand": "BrandB"
+  },
+  {
+    "name": "Headphones",
+    "description": "Noise-cancelling over-ear headphones",
+    "price": 199.99,
+    "countInStock": 30,
+    "imageUrl": "https://example.com/headphones.jpg",
+    "category": "Accessories",
+    "brand": "BrandC"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "user": "user_id_here",
+  "orderItems": [
+    {
+      "product": "product_id_here",
+      "name": "Laptop",
+      "qty": 1,
+      "image": "https://example.com/laptop.jpg",
+      "price": 999.99
+    }
+  ],
+  "shippingAddress": {
+    "address": "123 Main St",
+    "city": "Anytown",
+    "postalCode": "12345",
+    "country": "USA"
+  },
+  "paymentMethod": "Credit Card",
+  "itemsPrice": 999.99,
+  "taxPrice": 0.00,
+  "shippingPrice": 0.00,
+  "totalPrice": 999.99
+}
